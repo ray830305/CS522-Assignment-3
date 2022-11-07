@@ -1,0 +1,2 @@
+version,device name,recording time,platform,appVersion,device id,sensors,sampleRateMs
+3,SM-G781V,2022-10-31_01-35-54,android,1.11.1,ef5130f6-a6b5-4471-9671-254036240fa8,Accelerometer|Gyroscope|Annotation|TotalAcceleration|GyroscopeUncalibrated|AccelerometerUncalibrated,0|0||0|0|0
