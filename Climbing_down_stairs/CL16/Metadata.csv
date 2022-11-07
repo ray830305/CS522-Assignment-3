@@ -1,0 +1,2 @@
+version,device name,recording time,platform,appVersion,device id,sensors,sampleRateMs
+3,iPhone 11,2022-11-07_12-44-10,ios,1.10.3,ec075696-c429-4770-a941-d2fd1cc534c8,Accelerometer|Gyroscope|Annotation|GyroscopeUncalibrated|AccelerometerUncalibrated,0|0||0|0
